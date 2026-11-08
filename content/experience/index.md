@@ -8,12 +8,14 @@ showHero: false
 
 {{< timeline >}}
 
-{{< timelineItem icon="code" header="Machine Learning Engineer" badge="Mar 2026 – Present" subheader="Layer 6 AI · TD Bank" md="true" >}}
-- Built the automated evaluation framework on the Agentic AI team, now used to evaluate agentic conversations across the entire bank.
-- Cut deployment time for new automated evaluation solutions from roughly six months to a few weeks by standardizing the evaluation pipeline and making evaluators configurable.
+{{< timelineItem icon="code" header="Machine Learning Engineer II" badge="Mar 2026 – Present" subheader="Layer 6 AI · TD Bank" md="true" >}}
+On the Agentic AI team, I work on long-running agents and evaluation infrastructure at enterprise scale.
+
+- Developed [AutoEval](/projects/autoeval/), the bank-wide standard evaluation framework for assessing agentic conversations, reusable across generative AI and other AI applications.
+- Streamlined the development-to-production pipeline, reducing estimated deployment time for custom evaluators from roughly six months to weeks.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="code" header="AI / Machine Learning Engineer" badge="Dec 2024 – Feb 2026" subheader="JSI" md="true" >}}
+{{< timelineItem icon="code" header="AI / Machine Learning Engineer" badge="Dec 2024 – Mar 2026" subheader="JSI" md="true" >}}
 - Led the migration from a proprietary orchestration framework to Agno/LangChain, enabling a modular, LLM-based agentic retrieval and summarization system integrated with MCP; deployed on-premises across customer sites with 100+ GPUs.
 - Built a real-time RAG pipeline to embed and retrieve billions of multimodal records (audio, text, image), significantly improving search latency and contextual relevance.
 - Spearheaded the company-wide evaluation framework, using DeepEval and A/B testing to measure relevance, latency, and interaction quality.

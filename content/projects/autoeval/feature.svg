@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Abstract evaluation workflow with connected nodes and a check mark">
+<defs><radialGradient id="bg"><stop stop-color="#173d50"/><stop offset="1" stop-color="#07141f"/></radialGradient><linearGradient id="flow"><stop stop-color="#44d6c5"/><stop offset="1" stop-color="#8797f5"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="15"/></filter></defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<g fill="none" stroke="#48d5c8" opacity=".12"><circle cx="600" cy="400" r="170"/><circle cx="600" cy="400" r="260"/><circle cx="600" cy="400" r="350"/></g>
+<g fill="none" stroke="url(#flow)" stroke-width="5"><path d="M180 220H340Q400 220 400 280V340Q400 400 460 400H540"/><path d="M180 580H340Q400 580 400 520V460Q400 400 460 400"/><path d="M180 400H540M660 400H820Q880 400 880 340V220H1020M820 400Q880 400 880 460V580H1020M880 400H1020"/></g>
+<g fill="#142e40" stroke="#55d9cc" stroke-width="4"><rect x="125" y="165" width="110" height="110" rx="24"/><rect x="125" y="345" width="110" height="110" rx="24"/><rect x="125" y="525" width="110" height="110" rx="24"/></g>
+<circle cx="600" cy="400" r="100" fill="#40d8bb" opacity=".25" filter="url(#glow)"/><circle cx="600" cy="400" r="85" fill="#102e3c" stroke="#57e0c3" stroke-width="5"/><path d="m560 400 28 28 54-61" fill="none" stroke="#6aefca" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#172d45" stroke="#92a5f8" stroke-width="4"><circle cx="1020" cy="220" r="40"/><circle cx="1020" cy="400" r="40"/><circle cx="1020" cy="580" r="40"/></g>
+<g fill="#5ce0cd"><circle cx="180" cy="220" r="9"/><circle cx="180" cy="400" r="9"/><circle cx="180" cy="580" r="9"/></g><g fill="#b0bbff"><circle cx="1020" cy="220" r="9"/><circle cx="1020" cy="400" r="9"/><circle cx="1020" cy="580" r="9"/></g></svg>

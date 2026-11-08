@@ -1,6 +1,6 @@
 ---
 title: "Mitchell Chatterjee"
-description: "Machine Learning Engineer building agentic AI systems and the frameworks that evaluate them at scale."
+description: "Machine Learning Engineer II building agentic AI systems and the frameworks that evaluate them at scale."
 buttons:
   - text: "Download CV"
     href: "/uploads/resume.pdf"
@@ -8,14 +8,14 @@ buttons:
   - text: "View experience"
     href: "/experience/"
 featured:
-  - /projects/iris-ai-assistant
+  - /projects/autoeval
   - /publications/patchecg
-  - /publications/perioperative-ecg-ai
+  - /projects/iris-ai-assistant
 ---
 
-I'm a Machine Learning Engineer who builds agentic AI systems and the frameworks that evaluate them at scale.
+I'm a Machine Learning Engineer II who builds agentic AI systems and the frameworks that evaluate them at scale.
 
-At [Layer 6 AI](https://layer6.ai/) (TD Bank), I'm on the Agentic team, where we build long-running agents that take on complex tasks within a highly regulated environment. I built the automated evaluation framework used to assess agentic conversations across the bank, cutting the time to deploy new evaluations from roughly six months to a few weeks.
+At [Layer 6 AI](https://layer6.ai/) (TD Bank), I'm a Machine Learning Engineer II on the Agentic AI team, where we build long-running agents that take on complex tasks within a highly regulated environment. I developed [AutoEval](/projects/autoeval/), the bank-wide standard evaluation framework for assessing agentic conversations, reusable across generative AI and other AI applications.
 
 Previously at [JSI](https://www.jsitelecom.com/), I built an agentic harness that lets LLMs call internal APIs through MCP and search billions of multimodal records (audio, text, and image), deployed on-premises across customer sites with 100+ GPUs.
 
